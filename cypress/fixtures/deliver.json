@@ -1,0 +1,51 @@
+{
+    "signup":{
+        "name": "Lidiane Morais de Oliveira",
+            "cpf": "12314712589",
+            "email": "morais@gmail.com",
+            "whatsapp":"61 999999999",
+            "address": {
+            "postalcode":"71687540",
+                "street":"Quadra QC 10 Rua D",
+                "number":"34",
+                "details":"casa",
+                "district":"Jardins Mangueiral (Jardim Botânico)",
+                "city_state":"Brasília/DF"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Fernando Papito",
+        "cpf": "x2314712589",
+        "email": "fernando@gmail.com",
+        "whatsapp":"61 999999999",
+        "address": {
+        "postalcode":"71687540",
+            "street":"Quadra QC 10 Rua D",
+            "number":"34",
+            "details":"casa",
+            "district":"Jardins Mangueiral (Jardim Botânico)",
+            "city_state":"Brasília/DF"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg" 
+    },
+    
+        "email_inv":{
+            "name": "Lidiane Morais de Oliveira",
+                "cpf": "12314712589",
+                "email": "morais.com.br",
+                "whatsapp":"61 999999999",
+                "address": {
+                "postalcode":"71687540",
+                    "street":"Quadra QC 10 Rua D",
+                    "number":"34",
+                    "details":"casa",
+                    "district":"Jardins Mangueiral (Jardim Botânico)",
+                    "city_state":"Brasília/DF"
+                },
+                "delivery_method": "Moto",
+                "cnh": "cnh-digital.jpg"
+        }
+}
